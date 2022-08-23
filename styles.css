@@ -4,8 +4,8 @@ body {
 
 .allsquares {
     margin: 0;
-    width: 227.5px;
-    height: 227.5px;
+    width: 16.666vw;
+    height: 16.666vw;
     border-bottom: 1px solid black;   
 }
 
